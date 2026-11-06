@@ -1,0 +1,1 @@
+# stub vendor board config
